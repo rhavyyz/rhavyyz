@@ -7,8 +7,7 @@ I am Rhavy, a computer science student with interest in backend development and 
   <a
     href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"
     target="_blank"
-    rel="noreferrer"
-  >
+    rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus"
@@ -29,8 +28,7 @@ I am Rhavy, a computer science student with interest in backend development and 
   <a
     href="https://learn.microsoft.com/en-us/dotnet/csharp/"
     target="_blank"
-    rel="noreferrer"
-  >
+    rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
@@ -42,8 +40,7 @@ I am Rhavy, a computer science student with interest in backend development and 
   <a
     href="https://www.typescriptlang.org/docs/"
     target="_blank"
-    rel="noreferrer"
-  >
+    rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
@@ -55,8 +52,7 @@ I am Rhavy, a computer science student with interest in backend development and 
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
-    rel="noreferrer"
-  >
+    rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
