@@ -3,7 +3,7 @@
 I am Rhavy, a computer science student with interest in backend development and competitive programming. At the moment I am exploring some fields of computer science like networks and IA.
 
 ### Technologies 
-<p align="left">
+<p display="flex" flex-direction="row">
   <a
     href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"
     target="_blank"
